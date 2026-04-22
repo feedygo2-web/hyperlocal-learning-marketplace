@@ -1,1 +1,12 @@
-
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+.idea/
+.vscode/
+*.apk
+*.ipa
+.DS_Store
+local.properties
